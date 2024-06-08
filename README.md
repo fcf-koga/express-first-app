@@ -14,4 +14,7 @@ npm -v
 cd express-first-app
 npm install
 DEBUG=express-first-app:* npm start
+//nodemon
+DEBUG=express-locallibrary-tutorial:* npm run devstart
+
 ```
