@@ -30,5 +30,8 @@ mongosh --port 27017  --authenticationDatabase -u "root" -p
 Enter password:
 <!-- パスワードはdocker-compose.ymlで設定したもの -->
 
+## サンプルデータのインポート
+node populatedb mongodb://root:example@localhost:27017
+
 ```
 
