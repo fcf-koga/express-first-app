@@ -18,3 +18,17 @@ DEBUG=express-first-app:* npm start
 DEBUG=express-locallibrary-tutorial:* npm run devstart
 
 ```
+
+# MongoDBの起動
+```
+docker compose up -d
+
+## MongoDBへの接続
+docker compose exec mongo bash
+
+mongosh --port 27017  --authenticationDatabase -u "root" -p
+Enter password:
+<!-- パスワードはdocker-compose.ymlで設定したもの -->
+
+```
+
