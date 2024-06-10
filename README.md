@@ -35,3 +35,4 @@ node populatedb mongodb://root:example@localhost:27017
 
 ```
 
+http://localhost:3000/
