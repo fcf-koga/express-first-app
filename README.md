@@ -1,3 +1,12 @@
+<!-- シールド一覧 -->
+<!-- 該当するプロジェクトの中から任意のものを選ぶ-->
+<p style="display: inline">
+  <!-- フロントエンドのフレームワーク一覧 -->
+  <img src="https://img.shields.io/badge/-Node.js-000000.svg?logo=node.js&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Express.js-000000.svg?logo=next.js&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-MongoDB-000000.svg?logo=next.js&style=for-the-badge">
+</p>
+
 # express-first-app
 Express.jsのMDNチュートリアルで作成したアプリケーション
 
@@ -11,15 +20,7 @@ v20.14.0
 npm -v
 10.7.0
 ```
-<!-- シールド一覧 -->
-<!-- 該当するプロジェクトの中から任意のものを選ぶ-->
-<p style="display: inline">
-  <!-- フロントエンドのフレームワーク一覧 -->
-  <img src="https://img.shields.io/badge/-Node.js-000000.svg?logo=node.js&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-Express.js-000000.svg?logo=next.js&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-MongoDB-000000.svg?logo=next.js&style=for-the-badge">
 
-</p>
 
 # 実行方法
 ```
