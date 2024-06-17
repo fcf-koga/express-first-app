@@ -3,8 +3,8 @@
 <p style="display: inline">
   <!-- フロントエンドのフレームワーク一覧 -->
   <img src="https://img.shields.io/badge/-Node.js-000000.svg?logo=node.js&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-Express.js-000000.svg?logo=next.js&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-MongoDB-000000.svg?logo=next.js&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Express.js-000000.svg?logo=express.js&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-MongoDB-000000.svg?logo=mongodb&style=for-the-badge">
 </p>
 
 # express-first-app
