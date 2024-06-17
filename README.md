@@ -12,7 +12,7 @@ Express.jsのMDNチュートリアルで作成したアプリケーション
 
 https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs
 
-# バージョン
+## バージョン
 ```
 node -v
 v20.14.0
@@ -22,7 +22,7 @@ npm -v
 ```
 
 
-# 実行方法
+## 実行方法
 ```
 cd express-first-app
 
@@ -35,12 +35,12 @@ DEBUG=express-first-app:* npm run devstart
 
 ```
 
-# MongoDBの起動
+## MongoDBの起動
 ```
 docker compose up -d
 ```
 
-## MongoDBへの接続
+### MongoDBへの接続
 ```
 docker compose exec mongo bash
 
@@ -50,7 +50,7 @@ Enter password:
 <!-- パスワードはdocker-compose.ymlで設定したもの -->
 ```
 
-## サンプルデータのインポート
+### サンプルデータのインポート
 ```
 node populatedb mongodb://root:example@localhost:27017
 
